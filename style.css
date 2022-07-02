@@ -6,6 +6,10 @@ h1{
 }
 h2{
     color: yellow;
+}#imgi{
+    width: auto;
+    height: auto;
+    margin-left: 70px;
 }
 p{
     margin-right: 10px;
